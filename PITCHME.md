@@ -7,9 +7,7 @@
 ## BantOS !
 
 <br>
-BantOS adalah distro Linux turunan Ubuntu yang dikembangkan oleh Tim development Pemerintah Provinsi Banten dalam rangka Banten Government Open Source dengan rilis pertama code name "Leuit". 
-<br>
-
+BantOS adalah distro Linux turunan Ubuntu yang dikembangkan oleh Tim development Pemerintah Provinsi Banten dalam rangka mewujudkan Banten Government Open Source, dengan rilis pertama code name "Leuit". 
 ---
 ## Leuit !
 <br>
